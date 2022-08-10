@@ -1,0 +1,13 @@
+#center{
+    text-align: center;
+    color:purple;
+    background-color: blue;  
+  
+}
+p.dotted{
+    text-align:"right";
+    border-color: blueviolet;
+     border-left:6px solid red;
+     
+
+}

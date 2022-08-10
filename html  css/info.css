@@ -1,0 +1,35 @@
+div.info p{
+    text-align: center;
+   padding: 10px 15px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+div.info h1{
+    text-align: center;
+}
+div.info{
+    background-color:azure;
+    border: 2px solid  grey;
+    padding: 12px 12px;
+}
+body{
+    background-color:hotpink;
+}
+ @media only screen and (max-width: 600px){
+     body {
+         background-color:cornflowerblue;
+     }
+ }
+ footer{
+     background-color: beige;
+     padding: 10px;
+     text-align: center;
+     color:blue;
+     bottom: 0;
+     position: fixed;
+     width:100%;
+
+ }
+     
+
+ 

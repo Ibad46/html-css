@@ -1,0 +1,23 @@
+div.about p{
+    text-align: center;
+    padding: 10px 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div.about h1{
+    text-align:center;
+}
+div.about{
+    background-color: azure;
+    border:2px solid grey;
+    padding: 12px 12px;
+}
+table,td,th{
+    border-radius: 15px;
+    border:2px solid black;
+}
+th{
+    background-color: azure;
+}
+td{
+    background-color:beige;
+}
